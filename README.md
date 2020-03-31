@@ -5,3 +5,7 @@ Project Setup Steps:
 2. Open the project in the terminal then run command "yarn install or npm install".
 3. Open the ios directory and run command "pod install".
 4. Now you can the run app on android or iOS emulator by running command "react-native run-android or react-native run-ios".
+<div style="white-space: nowrap;">
+<img src="./screenshotList.jpg" width="200" height="400"/>
+<img src="./screenshotAdd.jpg" width="200" height="400"/>
+</div>
